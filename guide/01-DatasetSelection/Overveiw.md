@@ -1,7 +1,6 @@
 # Single-Cell RNA-seq with Scanpy — Dataset Selection
 
 > Personal reference for learning scRNA-seq analysis in **scanpy** (with **Seurat** cross-references).
-> Living document: sections are **updated in place** as understanding improves, never duplicated.
 > Project dataset: **GSE253903** (human carotid atherosclerosis, scRNA-seq).
 
 ---

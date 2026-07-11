@@ -27,13 +27,14 @@ This repository follows several principles:
 
 ## Roadmap
 
-- [ ] Prerequisite: Python Fundamentals
+- [x] Prerequisite: Conda & Environment Management
+- [x] Prerequisite: Jupyter Notebook
 - [ ] Prerequisite: NumPy
 - [ ] Prerequisite: Pandas
 - [ ] Prerequisite: Matplotlib
 - [ ] Prerequisite: AnnData
-- [ ] Prerequisite: Jupyter Notebook
-- [ ] Prerequisite: Conda & Environment Management
+
+
 
 ### Module 1 — Fundamentals of scRNA-seq Analysis (Scanpy)
 
